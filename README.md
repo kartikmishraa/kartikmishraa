@@ -4,7 +4,7 @@
       
 - 🌱 I’m currently pursuing a Bachelors in Computer Science. I am in my second year of study and I am engrossed in learning various programming concepts (DSA, OOP, etc.) 
 
-- 💞️ I’m open to contributing to open source projects, as long as I feel they are within my scope. But that doesn't mean that I don't want to push my limits, I am
+- 💞️ I’m open to contributing to open source projects, as long as I feel they are within my scope. I would also love learn new things and push my limits, I am
       constantly looking to improve my skills and learn from others. 
       
 - 📫 You may contact me on my linkedin: https://www.linkedin.com/in/kartik-mishra-1446751b7/
