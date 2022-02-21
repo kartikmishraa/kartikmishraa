@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kartikmishraa
+# 👋 Hi, I’m @kartikmishraa
 - 👀 My interests lie in Web Development, Blockchain (Web3), DataScience & Machine Learning. I would love to contribute to projects in the aforementioned fields and put my
       learnings to the test.
       
