@@ -20,7 +20,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m a student in my 3rd year of B.Tech CSE @KIIT University.
+- :telescope: I’m a student in my 4th year of B.Tech CSE @KIIT University.
 
 - :seedling: Learning full-stack web development.
 
